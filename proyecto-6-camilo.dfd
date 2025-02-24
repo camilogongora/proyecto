@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+r
+1
+0
+4
+1
+29
+'insertar el valor del radio'
+5
+1
+1
+r
+6
+1
+1
+l
+12
+(2*3.1416)*r
+4
+1
+30
+'la longitud del circulo es',l
+1

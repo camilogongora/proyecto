@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+gf
+1
+0
+2
+gc
+1
+0
+4
+1
+35
+'dijite el valor de grados celsius'
+5
+1
+2
+gc
+6
+1
+2
+gf
+11
+(gc*1.8)+32
+4
+1
+53
+'',gc,'grados celcius es = a ',gf,'grados fahrenheit'
+1

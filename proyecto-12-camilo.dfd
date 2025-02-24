@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+in1
+1
+0
+3
+in2
+1
+0
+3
+in3
+1
+0
+4
+1
+30
+'ingrese dinero de inversor 1'
+5
+1
+3
+in1
+4
+1
+30
+'ingrese dinero de inversor 2'
+5
+1
+3
+in2
+4
+1
+30
+'ingrese dinero de inversor 3'
+5
+1
+3
+in3
+6
+3
+3
+vt1
+13
+(in1+in2+in3)
+4
+inv1
+13
+(in1/vt1)*100
+4
+inv2
+13
+(in2/vt1)*100
+6
+1
+4
+inv3
+13
+(in3/vt1)*100
+4
+1
+46
+'el porcentaje del inversor 1 es de ',inv1,'%'
+4
+1
+46
+'el porcentaje del inversor 2 es de ',inv2,'%'
+4
+1
+46
+'el porcentaje del inversor 3 es de ',inv3,'%'
+1

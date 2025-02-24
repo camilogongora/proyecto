@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+2
+sv
+1
+0
+4
+1
+41
+'intrudicir el valor del antiguo salario'
+5
+1
+2
+sv
+6
+1
+2
+sn
+12
+(sv*0.25)+sv
+4
+1
+64
+'el valor del nuevo salario co el 25 prociento de aumento es',sn
+1

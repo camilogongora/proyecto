@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'digitar el valor del producto que desee suma el iva'
+5
+1
+2
+vp
+6
+3
+2
+vi
+9
+(vp*0.19)
+3
+vci
+7
+(vi+vp)
+2
+vp
+1
+0
+4
+1
+87
+'el valor del iva es=',vi,' pesos y el precio del producto mas el iva es=',vci,' pesos'
+1

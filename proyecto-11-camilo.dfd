@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+t
+1
+0
+1
+p
+1
+0
+1
+a
+1
+0
+4
+1
+26
+'ingrese su notade taller'
+5
+1
+1
+t
+4
+1
+29
+'ingrese su nota del parcial'
+5
+1
+1
+p
+4
+1
+30
+'ingrese su nota de actividad'
+5
+1
+1
+a
+6
+1
+4
+nota
+9
+(t+p+a)/3
+7
+0
+1
+7
+nota>=3
+4
+1
+11
+'repeobado'
+4
+1
+33
+'su nota final fue de',nota,' :c'
+13
+4
+1
+10
+'aprobado'
+4
+1
+33
+'su nota final fue de',nota,' :)'
+13
+1
