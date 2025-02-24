@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+in1
+1
+0
+3
+in2
+1
+0
+3
+in3
+1
+0
+4
+1
+35
+'ingrese valor del primer producto'
+5
+1
+3
+in1
+4
+1
+30
+'ingrese valor del producto 2'
+5
+1
+3
+in2
+4
+1
+33
+'ingrese el valor del producto 3'
+5
+1
+3
+in3
+6
+1
+2
+pd
+13
+(in1+in2+in3)
+4
+1
+96
+'si el valor total de la compra  no pasa el valor de 10000 no se efectuara el descuento del 50%'
+4
+1
+90
+'si el valor total de la compra  pasa el valor de 10000 se efectuara un descuento del 50%'
+7
+1
+1
+9
+pd<=10000
+7
+0
+1
+9
+pd>=10000
+4
+1
+44
+'el valor total de la compra es ',pd,'pesos'
+13
+13
+13
+6
+1
+3
+pd2
+12
+(pd*0.50)+pd
+4
+1
+109
+'felizidades el precio total a recibido un descuento del 50% el valortotal con descuento es de ',pd2,' pesos'
+13
+1

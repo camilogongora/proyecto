@@ -1,0 +1,93 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+in1
+1
+0
+3
+in2
+1
+0
+3
+in3
+1
+0
+4
+1
+35
+'ingrese valor del primer producto'
+5
+1
+3
+in1
+4
+1
+30
+'ingrese valor del producto 2'
+5
+1
+3
+in2
+4
+1
+33
+'ingrese el valor del producto 3'
+5
+1
+3
+in3
+6
+3
+3
+vt1
+13
+(in1+in2+in3)
+4
+inv1
+13
+(in1/vt1)*100
+4
+inv2
+13
+(in2/vt1)*100
+6
+3
+4
+inv3
+13
+(in3/vt1)*100
+2
+pr
+13
+(in1+in2+in3)
+2
+pd
+12
+(pr*0.30)-pr
+4
+1
+46
+'el porcentaje de la compra 1 es de ',inv1,'%'
+4
+1
+46
+'el porcentaje de la compra 2 es de ',inv2,'%'
+4
+1
+46
+'el porcentaje de la compra 3 es de ',inv3,'%'
+4
+1
+44
+'el valor total de la compra es ',pr,'pesos'
+4
+1
+69
+'el valor total de la compra mas un descuento del 30% es ',pr,'pesos'
+1
