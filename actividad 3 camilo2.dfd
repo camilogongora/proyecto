@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'ingrese la cantidad que quiera'
+5
+1
+2
+ml
+6
+3
+3
+mlv
+4
+4500
+2
+ct
+8
+(ml*mlv)
+2
+tv
+12
+ct-(ct*0.19)
+4
+1
+33
+'el valor de la cantidad es :',tv
+1

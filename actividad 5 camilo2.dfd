@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'ingrese el valor de la compra'
+5
+1
+2
+vc
+4
+1
+93
+'si la compra pasa de 180.000 pesos el envio es gratis si no se le sumara el envio de 20.000'
+7
+0
+1
+9
+vc>180000
+6
+1
+2
+vt
+8
+vc+20000
+4
+1
+2
+vt
+13
+4
+1
+33
+'el envio fue gratis felicidades'
+13
+1

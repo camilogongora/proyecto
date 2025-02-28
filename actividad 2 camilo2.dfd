@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'ingresar el  descuento que quiera'
+5
+1
+1
+d
+4
+1
+32
+'ingresar el valor de la compra'
+5
+1
+2
+vl
+6
+1
+5
+total
+15
+vl-((vl*d)/100)
+4
+1
+39
+'seño@ usuario usted debe pagar ',total
+1
