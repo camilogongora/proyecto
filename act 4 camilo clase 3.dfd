@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+56
+'insertar el valor de la edad  y el valor de la compra' 
+5
+1
+5
+vt,ed
+7
+0
+1
+19
+vt>100000 and ed>60
+6
+1
+2
+vt
+12
+vt+(vt*0.19)
+4
+1
+2
+vt
+13
+6
+2
+2
+vd
+12
+vt-(vt*0.20)
+2
+vi
+12
+vd+(vd*0.19)
+4
+1
+2
+vi
+13
+1
